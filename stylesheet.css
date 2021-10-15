@@ -1,0 +1,36 @@
+/* Event */
+
+
+<section {
+    width: 80px;
+    margin: 80px auto;
+    justify-self: unset;
+
+}
+.title {
+    text-align: center;
+    font-size: 4vmin;
+    color: #49497e;
+}
+.row {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    background: cyan;
+}
+.row .col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h4 {
+    font-size: 3vmin;
+    color: #484872;
+    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    color: #7c7c7c;
+}
